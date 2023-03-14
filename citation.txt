@@ -1,0 +1,9 @@
+@article{REPO-024,
+    author = "Su, Jie and Wen, Zhenyu and Lin, Tao and Guan, Yu",
+    journal = "Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies",
+    number = "1",
+    pages = "1--19",
+    title = "{Learning Disentangled Behaviour Patterns for Wearable-based Human Activity Recognition}",
+    volume = "6",
+    year = "2022"
+}
